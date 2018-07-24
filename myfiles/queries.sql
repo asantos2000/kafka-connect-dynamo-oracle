@@ -22,3 +22,10 @@ INSERT INTO alunos (id, docid, nome) VALUES ('7', '77777777777', 'Maria7');
 INSERT INTO alunos (id, docid, nome) VALUES ('8', '88888888888', 'Maria8');
 INSERT INTO alunos (id, docid, nome) VALUES ('9', '99999999999', 'Maria9');
 INSERT INTO alunos (id, docid, nome) VALUES ('0', '00000000000', 'Maria0');
+
+DELETE FROM alunos WHERE docid='00000000000'
+
+UPDATE alunos SET docid='11111111110' WHERE id = '1';
+
+UPDATE alunos SET nome='Maria Nine' WHERE docid = '99999999999';
+
