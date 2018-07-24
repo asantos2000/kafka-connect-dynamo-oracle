@@ -59,7 +59,7 @@ Create table `alunos`
 CREATE TABLE ALUNOS (ID VARCHAR2(10)  PRIMARY KEY, DOCID VARCHAR2(11), NOME VARCHAR2(100));
 ```
 
-Insert record to the table:
+Insert records to the table:
 
 ```sql
 INSERT INTO alunos (id, docid, nome) VALUES ('1', '11111111111', 'Maria1');
@@ -70,7 +70,7 @@ COMMIT;
 ```
 > `myfiles/queries.sql`
 
-Select versioning record
+The flashback query:
 
 ```sql
 set linesize 300
