@@ -1,0 +1,6 @@
+accessKeys.csv
+kafka-connect-dynamodb
+myfiles/data
+myfiles/oradata
+myfiles/logs
+**/*.jar

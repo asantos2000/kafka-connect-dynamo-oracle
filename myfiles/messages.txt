@@ -1,0 +1,4 @@
+{"ID":{"string":"1"},"DOCID":{"string":"11111111111"},"NOME":{"string":"Maria1"},"VERSIONS_OPERATION":{"string":"I"},"VERSIONS_STARTTIME":{"long":1532440904000}}
+{"ID":{"string":"2"},"DOCID":{"string":"22222222222"},"NOME":{"string":"Maria2"},"VERSIONS_OPERATION":{"string":"I"},"VERSIONS_STARTTIME":{"long":1532454043000}}
+{"ID":{"string":"3"},"DOCID":{"string":"33333333333"},"NOME":{"string":"Maria3"},"VERSIONS_OPERATION":{"string":"I"},"VERSIONS_STARTTIME":{"long":1532454070000}}
+{"ID":{"string":"4"},"DOCID":{"string":"44444444444"},"NOME":{"string":"Maria4"},"VERSIONS_OPERATION":{"string":"I"},"VERSIONS_STARTTIME":{"long":1532454775000}}
